@@ -1,8 +1,7 @@
 # Cute Creeper Minecraft
 
 ## O que é isso?
-Este é um exercício para iniciação na linguagem HTML. A proposta era, por meio de coordenadas dentro da tag "<"canvas">" criar o personagem "Creeper" do jogo Minecraft. Após finalizar, ajustei o personagem de modo a torná-lo fofo. :3
-
+Este é um exercício para iniciação na linguagem HTML. A proposta era, por meio de coordenadas dentro da tag < canvas >  criar o personagem "Creeper" do jogo Minecraft. Após finalizar, ajustei o personagem de modo a torná-lo fofo. :3
 ## Qual tecnologia usei?
 HTML (Linguagem de Marcação de HiperTexto)
 
